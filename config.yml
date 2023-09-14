@@ -13,13 +13,12 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: SatooRu's Blog
   description: "SatooRu's Blog description"
   keywords: [Blog, Portfolio]
   author: SatooRu
   images: ["penguin.jpg"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2006-1-2"
   defaultTheme: auto # dark, light
   disableThemeToggle: true
 
@@ -74,31 +73,24 @@ params:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
-  # for search
-  # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
-    keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 10
     - identifier: categories
       name: categories
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
+      weight: 30
     - identifier: satooru.me
       name: satooru.me
       url: https://satooru.me
-      weight: 30
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
