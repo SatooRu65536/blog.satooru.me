@@ -2,12 +2,8 @@
 title: "梶研 04/19 - 04/25"
 date: 2023-04-25T20:00:00+09:00
 weight: 20230425
-menu:
-  sidebar:
-    name: "04/19 - 04/25"
-    identifier: "2023-04-25T20:00:00+09:00"
-    weight: 20230425
-    parent: 梶研究室
+tags: ["Python", "歩行軌跡"]
+categories: ["活動報告", "梶研"]
 ---
 
 

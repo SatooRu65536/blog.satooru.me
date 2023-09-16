@@ -2,12 +2,8 @@
 title: "出席確認システムを作った-2"
 date: 2022-10-22T22:11:55+09:00
 weight: 20221022
-menu:
-  sidebar:
-    name: "出席確認システム-2"
-    identifier: "2022-10-22T22:11:55+09:00"
-    weight: 20221022
-    parent: 2022-10
+tags: ["Python", "Raspberry Pi", "M5stack", "Pasori", "Google Apps Script"]
+categories: ["活動報告", "システム"]
 ---
 
 [出席確認システムを作った](/posts/activity-report/2022-06/attendanse-system/) の後に、バグが多かったため作り直しました

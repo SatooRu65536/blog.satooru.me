@@ -2,12 +2,8 @@
 title: "プログラミング言語を作りました"
 date: 2023-01-07T19:50:34+09:00
 weight: 20230107
-menu:
-  sidebar:
-    name: "ncss"
-    identifier: "2023-01-07T19:50:34+09:00"
-    weight: 20230107
-    parent: 2023-01
+tags: ["TypeScript", "JavaScript","CSS", "自作言語"]
+categories: ["活動報告", "プログラミング言語"]
 ---
 
 ## なぜ

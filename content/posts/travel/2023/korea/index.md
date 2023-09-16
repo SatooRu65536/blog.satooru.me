@@ -2,12 +2,8 @@
 title: "韓国旅行"
 date: 2023-03-31T00:00:00+09:00
 weight: 20230331
-menu:
-  sidebar:
-    name: "韓国旅行"
-    identifier: 2023-03-31T00:00:00+09:00
-    weight: 20230327
-    parent: 2023
+tags: ["韓国", "ソウル", "釜山"]
+categories: ["旅行"]
 ---
 
 ### 日時

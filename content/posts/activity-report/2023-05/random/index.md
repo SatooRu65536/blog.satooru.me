@@ -2,12 +2,8 @@
 title: "学籍番号をランダムに"
 date: 2023-05-04T15:43:46+09:00
 weight: 20230504
-menu:
-  sidebar:
-    name: "randomize"
-    identifier: 2023-05-04T15:43:46+09:00
-    weight: 20230504
-    parent: 2023-05
+tags: ["JavaScript", "CSS"]
+categories: ["活動報告", "webサイト"]
 ---
 
 ## 学籍番号をランダムに

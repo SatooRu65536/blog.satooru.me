@@ -2,12 +2,8 @@
 title: "長篠旅行"
 date: 2022-10-22T20:57:32+09:00
 weight: 20221022
-menu:
-  sidebar:
-    name: "長篠旅行"
-    identifier: 2022-10-22T20:57:32+09:00
-    weight: 20221022
-    parent: 2022
+tags: ["百名城", "続百名城", "御城印"]
+categories: ["旅行", "城巡り"]
 ---
 
 ### 日時

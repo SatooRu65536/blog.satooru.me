@@ -2,12 +2,8 @@
 title: "Macアプリ chindicator"
 date: 2023-03-13T20:00:00+09:00
 weight: 20230107
-menu:
-  sidebar:
-    name: "chindicator"
-    identifier: "2023-03-13T20:00:00+09:00"
-    weight: 20230313
-    parent: 2023-03
+tags: ["Swift", "Mac"]
+categories: ["活動報告", "メニューバーアプリ"]
 ---
 
 ## きっかけ

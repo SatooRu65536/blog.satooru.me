@@ -2,12 +2,8 @@
 title: "情報システム部のサイト作った"
 date: 2023-03-11T23:39:10+09:00
 weight: 20230311
-menu:
-  sidebar:
-    name: "misc-site"
-    identifier: "2023-03-11T23:39:10+09:00"
-    weight: 20230311
-    parent: 2023-03
+tags: ["Hugo", "Tailwind CSS"]
+categories: ["活動報告", "webサイト"]
 ---
 
 ### 目的

@@ -2,11 +2,8 @@
 title: "aiboのアプリの一般公開が決まりました"
 date: 2022-10-15T20:39:34+09:00
 weight: 20221015
-menu:
-  sidebar:
-    name: "aibo"
-    weight: 20221015
-    parent: 2022-10
+tags: ["aibo", "AWS", "SONY", "TypeScript", "svelte"]
+categories: ["活動報告", "受賞報告", "webアプリ"]
 ---
 
 7月後半より情報システム部4人で推し活をテーマにaiboと遊べるすごくを制作しました。  

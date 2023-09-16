@@ -2,12 +2,8 @@
 title: "梶研 04/26 - 05/02"
 date: 2023-05-02T20:00:00+09:00
 weight: 20230502
-menu:
-  sidebar:
-    name: "04/26 - 05/02"
-    identifier: "2023-05-02T20:00:00+09:00"
-    weight: 20230502
-    parent: 梶研究室
+tags: ["Python", "二乗平均誤差", "歩行軌跡"]
+categories: ["活動報告", "梶研"]
 ---
 
 

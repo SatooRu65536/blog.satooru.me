@@ -2,12 +2,8 @@
 title: "四国旅行"
 date: 2023-02-13T00:00:00+09:00
 weight: 20230213
-menu:
-  sidebar:
-    name: "四国旅行"
-    identifier: 2023-02-13T00:00:00+09:00
-    weight: 20230213
-    parent: 2023
+tags: ["四国", "百名城", "続百名城"]
+categories: ["旅行", "城巡り"]
 ---
 
 ### 日時

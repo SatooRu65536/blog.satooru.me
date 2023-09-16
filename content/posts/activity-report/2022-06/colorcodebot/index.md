@@ -2,12 +2,8 @@
 title: "カラーコードボットを作った"
 date: 2022-06-12T21:37:15+09:00
 weight: 20220612
-menu:
-  sidebar:
-    name: "カラーコードボット"
-    identifier: "2022-06-12T21:37:15+09:00"
-    weight: 20220612
-    parent: 2022-06
+tags: ["Node.js", "discord BOT", "sqlite"]
+categories: ["活動報告", "BOT"]
 ---
 
 

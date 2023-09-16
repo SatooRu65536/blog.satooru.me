@@ -2,12 +2,8 @@
 title: "梶研 04/11 - 04/18"
 date: 2023-04-18T20:00:00+09:00
 weight: 20230418
-menu:
-  sidebar:
-    name: "04/11 - 04/18"
-    identifier: "2023-04-18T20:00:00+09:00"
-    weight: 20230418
-    parent: 梶研究室
+tags: ["Python", "Kotlin", "歩数推定"]
+categories: ["活動報告", "梶研", "Androidアプリ"]
 ---
 
 
