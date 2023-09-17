@@ -1,7 +1,7 @@
 ---
 title: "技育CAMPマンスリーハッカソン vol.7"
-date: 2023-08-06-17T18:00:00+09:00
-weight: 20230806
+date: 2023-08-08-10T18:00:00+09:00
+weight: 20230810
 tags: ["技育CAMP", "技育展", "Next.js", "SCSS"]
 categories: ["活動報告", "webアプリ"]
 ---
