@@ -1,7 +1,7 @@
 ---
 title: "梶研 08/03 - 08/08"
 date: 2023-08-08T20:00:00+09:00
-weight: 202308030808
+weight: 20230808
 tags: ["技育CAMP マンスリーvol7", "技育展", "Open Hack U NAGOYA"]
 categories: ["活動報告", "梶研", "ハッカソン"]
 ---

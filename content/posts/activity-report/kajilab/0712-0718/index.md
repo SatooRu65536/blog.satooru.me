@@ -1,7 +1,7 @@
 ---
 title: "梶研 07/12 - 07/18"
 date: 2023-07-18T20:00:00+09:00
-weight: 202307120718
+weight: 20230718
 tags: ["Python", "方位角推定", "技育CAMP マンスリーvol7", "技育展", "Open Hack U NAGOYA"]
 categories: ["活動報告", "梶研", "ハッカソン"]
 ---

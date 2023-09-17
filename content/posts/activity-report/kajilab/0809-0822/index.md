@@ -1,7 +1,7 @@
 ---
 title: "梶研 08/09 - 08/22"
 date: 2023-08-22T20:00:00+09:00
-weight: 202308090822
+weight: 20230822
 tags: ["技育展", "Open Hack U NAGOYA"]
 categories: ["活動報告", "梶研", "ハッカソン"]
 ---
