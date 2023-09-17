@@ -2,8 +2,8 @@
 title: "技育キャンプキャラバンハッカソン vol.2"
 date: 2023-06-17T18:00:00+09:00
 weight: 202306017
-tags: ["Hugo", "Tailwind CSS"]
-categories: ["活動報告", "webサイト"]
+tags: ["技育CAMP", "Tauri"]
+categories: ["活動報告", "ハッカソン", "デスクトップアプリ"]
 ---
 
 # 概要
