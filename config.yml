@@ -69,28 +69,32 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/SatooRu65536/blog.satooru.me/content"
+    URL: "https://github.com/SatooRu65536/blog.satooru.me/"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 
 menu:
   main:
-    - identifier: archives
-      name: archives
-      url: /archives/
+    - identifier: achievements
+      name: Achievements
+      url: /achievements/
       weight: 10
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: archives
+      name: Archives
+      url: /archives/
       weight: 20
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: categories
+      name: Categories
+      url: /categories/
       weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 40
     - identifier: satooru.me
       name: satooru.me
       url: https://satooru.me
-      weight: 40
+      weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
