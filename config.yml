@@ -75,10 +75,6 @@ params:
 
 menu:
   main:
-    - identifier: achievements
-      name: Achievements
-      url: /achievements/
-      weight: 10
     - identifier: archives
       name: Archives
       url: /archives/
