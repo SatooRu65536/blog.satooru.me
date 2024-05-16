@@ -55,7 +55,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "ブログページは移行しました \U0001F44B"
-    Content: Welcome to my blog
+    Content: https://satooru.me/posts
 
   socialIcons:
     - name: twitter
